@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.continer{
+    padding-left: 950px;
+    padding-top: 180px;
+}
+.pragrap{
+    width: 300px;
+ 
+}
+header{
+    background-image: url("bbbbb.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    margin-bottom: 200px;
+}
+.heading-one{
+    font-size: 39px;
+    color: white;
+    padding-bottom: 30px;
+}
+.pray{
+    color: white;
+    font-size: 21px;
+    padding-bottom: 30px;
+}
+.btton-one{
+    color: rgb(219, 208, 208);
+    font-size: 20px;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.section-con{
+    display: flex;
+}
+.heing{
+    width: 280px;
+    padding-left: 300px;
+    padding-top: 60px;
+}
+.heading-two{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.amar{
+    font-size: 21px;
+    padding-bottom: 30px;
+}
+.picture{
+    width: 350px;
+    margin-left: 90px;
+}
+.dio{
+    display: flex;
+    justify-content: space-between;
+    margin: 200px;
+}
+.box{
+    text-align: center;
+}
+.titile{
+    text-align: center;
+    padding-top: 20px;
+}
+.shahariar{
+    width: 400px;
+    padding-left: 100px;
+    margin-bottom: 50px;
+   
+}
+.loiu{
+    padding-bottom: 300px;
+    background-image: url("ttt.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 200px;
+}
+.llll{
+    color: white;
+    font-size: 29px;
+}
+.india{
+    color: red;
+    background-color:white;
+    border: 0px;
+    font-size: 29px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+}
+.aklkwk{
+    display: flex;
+    justify-content: space-between;
+    margin: 200px;
+}
+#iop{
+    width: 300px;
+    padding-top: 60px;
+
+}
+.koiu{
+    font-size: 39px;
+    padding-bottom: 15px;
+    color: white;
+}
+.llq{
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+footer{
+    background-color: black;
+    height: 300px;
+    color: white;
+}
+#kokop{
+    padding-top: 60px;
+    padding-right: 200px;
+}
+.lkjh{
+    font-size: 18px;
+    border-radius: 5px;
+    border: 0px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.korort{
+    font-size: 18px;
+    border-radius: 5px;
+    border: 0px;
+    padding: 5px;
+    color: red;
+}
+.s{
+    font-size: 24px;
+}
